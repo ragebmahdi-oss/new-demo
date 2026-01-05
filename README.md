@@ -1,4 +1,5 @@
 # new-demo
-This is my second Git Repository. 
+
+This is my second Git Repository.
 <br>
-Author: Rageb Mahdi
+Author: Rageb Mahdi (Uspur)
